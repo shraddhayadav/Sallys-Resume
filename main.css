@@ -1,0 +1,19 @@
+h1{
+	color: red;
+}
+table, th,td {
+	border: solid 0.1px black;
+} 
+table {
+	border-collapse: collapse;
+}
+th {
+color: green;
+}
+th,td {
+	padding: 10px;
+	text-align: left;
+}
+h2{
+	color:brown;
+}
